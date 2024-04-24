@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "operatorsJava",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.operatorsJava",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
