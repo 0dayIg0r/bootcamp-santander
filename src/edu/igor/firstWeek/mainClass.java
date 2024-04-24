@@ -1,3 +1,5 @@
+package edu.igor.firstWeek;
+
 public class mainClass {
     public static void main(String[] args) {
         String firstName = "Igor";
