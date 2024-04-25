@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "contaTerminal",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.primeira_atividade.contaTerminal",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
+            "name": "contatTerminal",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.primeira_atividade.contatTerminal",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
             "name": "User",
             "request": "launch",
             "mainClass": "edu.igor.firstWeek.User",
