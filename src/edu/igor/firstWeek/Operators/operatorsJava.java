@@ -1,4 +1,4 @@
-package edu.igor.firstWeek;
+package edu.igor.firstWeek.Operators;
 
 /**
  * operatorsJava

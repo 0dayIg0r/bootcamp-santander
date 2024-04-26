@@ -1,4 +1,4 @@
-package edu.igor.firstWeek;
+package edu.igor.firstWeek.Operators;
 
 public class SmartTv {
       boolean isOn = false;
