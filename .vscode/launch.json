@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "simpleFluxControl",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.simpleFluxControl",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
             "name": "contaTerminal",
             "request": "launch",
             "mainClass": "edu.igor.firstWeek.primeira_atividade.contaTerminal",

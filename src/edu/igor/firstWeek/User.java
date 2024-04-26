@@ -1,4 +1,6 @@
-package edu.igor.firstWeek;
+package edu.igor.firstWeek.Operators;
+
+import edu.igor.firstWeek.SmartTv;
 
 public class User {
     public static void main(String[] args) throws Exception {
