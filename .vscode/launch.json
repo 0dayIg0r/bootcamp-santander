@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BreakAndContinue",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.estructureRepetitions.BreakAndContinue",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.estructureRepetitions.ForArray",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.FluxControl.estructureRepetitions.For",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
             "name": "simpleFluxControl",
             "request": "launch",
             "mainClass": "edu.igor.firstWeek.simpleFluxControl",

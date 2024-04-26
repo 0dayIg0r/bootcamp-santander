@@ -1,6 +1,6 @@
 package edu.igor.firstWeek.FluxControl;
 
-public class simpleFluxControl {
+public class simpleCondition {
     public static void main(String[] args) {
         double balance = 25.0;
         double withDrawal = 17.0;
