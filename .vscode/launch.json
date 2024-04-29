@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "formatadorDeCep",
+            "request": "launch",
+            "mainClass": "edu.igor.firstWeek.FluxControl.estructureRepetitions.exeptionalsSctructure.formatadorDeCep",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
             "name": "BreakAndContinue",
             "request": "launch",
             "mainClass": "edu.igor.firstWeek.estructureRepetitions.BreakAndContinue",
