@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "edu.igor.secondWeek.DesafioControleDeFluxo.Contador",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "edu.igor.secondWeek.caseJobProcess.ProcessoSeletivo",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
+            "name": "JobProcess",
+            "request": "launch",
+            "mainClass": "edu.igor.secondWeek.caseJobProcess.JobProcess",
+            "projectName": "bootcamp-santander_e63dbe0f"
+        },
+        {
+            "type": "java",
             "name": "formatadorDeCep",
             "request": "launch",
             "mainClass": "edu.igor.firstWeek.FluxControl.estructureRepetitions.exeptionalsSctructure.formatadorDeCep",
